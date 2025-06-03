@@ -6,12 +6,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🙋‍♀️ About Me
 
-- 🔧 An enthusiastic **App Developer** with a knack for problem-solving  
-- 🌐 I love creating **interactive, responsive** web and mobile experiences  
-- 🧪 Constantly experimenting with **Python, ML, and Flask**  
-- 🛠️ Code, break, fix, repeat 💻
+* 🛠️ An enthusiastic **programmer** with a knack for problem-solving  
+* 🧪 Constantly experimenting with **Python**, **ML**, and **Flask**  
+* 💻 Sharpening my algorithmic skills with **C++ DSA**  
+* ⚙️ Delving into the intricacies of **C** programming  
+* 👾 Code, break, fix, repeat 🧑‍💻  
+
 
 ---
 
